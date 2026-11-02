@@ -1,0 +1,27 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Raw STORM-AI data
+initial_states/
+omni2/
+sat_density/
+goes/
+*.zip
+
+# Generated large files
+results/processed_data.parquet
+results/models/
+*.joblib
+
+# Downloaded development kit
+STORM-AI-devkit-2025-main/
+
+# Editor files
+.vscode/
+
+# macOS extraction metadata
+__MACOSX/
+.DS_Store
+._*
