@@ -1,6 +1,6 @@
 # Atmospheric Density Forecasting Using Machine Learning
 
-**AE 498 — Project 1: Data-Driven Modeling**  
+**AE 498 - Project 1: Data-Driven Modeling**  
 University of Illinois Urbana-Champaign
 
 ## Overview
